@@ -18,7 +18,7 @@ jobs:
       - name: Overview metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: idiocter
           filename: metrics.svg
           template: classic
@@ -38,7 +38,7 @@ jobs:
       - name: Isometric calendar
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: idiocter
           filename: metrics.isocalendar.svg
           base: ""
