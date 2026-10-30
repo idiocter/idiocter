@@ -65,8 +65,7 @@
 
 ### 📊 GitHub Dashboard
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=idiocter&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=2DD4BF&text_color=C9D1D9" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idiocter&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="top langs" />
+<img src="./metrics.svg" alt="overview, top languages & achievements" width="78%" />
 
 <br/>
 
@@ -81,18 +80,7 @@
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=idiocter&bg_color=0D1117&color=38BDF8&line=2DD4BF&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true" alt="activity graph" width="98%" />
-
-</div>
-
----
-
-<!-- ===== TROPHIES ===== -->
-<div align="center">
-
-### 🏆 Trophy Case
-
-<img src="https://github-profile-trophy.vercel.app/?username=idiocter&theme=oceanicNext&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" width="98%" />
+<img src="./metrics.isocalendar.svg" alt="isometric contribution calendar" width="78%" />
 
 </div>
 
