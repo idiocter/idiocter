@@ -9,7 +9,7 @@
 
 <!-- ===== ANIMATED TYPING HEADER ===== -->
 <a href="https://github.com/idiocter">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=820&height=80&lines=Hey%2C+I'm+idiocter+%F0%9F%91%8B;Software+Engineer+%F0%9F%8C%8A+AI%2FML+Explorer+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%8C%90;Diving+deep+into+code%2C+surfacing+with+solutions+%F0%9F%8F%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=820&height=80&lines=Hey%2C+I'm+idiocter+%F0%9F%91%8B;Turning+caffeine+into+code+%E2%98%95;I+debug+with+print+statements+%F0%9F%96%A8%EF%B8%8F;Shipping+%3E+perfection+%F0%9F%9A%80;AI%2FML+%C2%B7+Full-Stack+%C2%B7+Always+building+%F0%9F%8C%8A" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,17 +28,11 @@
 <!-- ===== ABOUT ===== -->
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> About me
 
-```python
-class Idiocter:
-    def __init__(self):
-        self.roles       = ["Software Engineer", "AI/ML Explorer", "Full-Stack Dev"]
-        self.languages   = ["Python", "TypeScript", "JavaScript", "C/C++"]
-        self.current_vibe = "building cool things & breaking them faster"
-        self.learning     = ["LLMs", "systems design", "whatever's shiny this week"]
-
-    def say_hi(self):
-        print("Thanks for dropping by — let's build something 🚀")
-```
+- 🔭 &nbsp;Software Engineer into **AI/ML** and **full-stack web** development
+- 🌱 &nbsp;Currently exploring **LLMs**, systems design, and whatever's shiny this week
+- 🧩 &nbsp;I build cool things — and break them faster
+- 💬 &nbsp;Ask me about **Python**, **TypeScript**, or over-engineered side projects
+- 📫 &nbsp;Reach me at **bipulregmi2018@gmail.com**
 
 ---
 
@@ -51,8 +45,12 @@ class Idiocter:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=38BDF8)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -105,8 +103,17 @@ class Idiocter:
 
 ### 🤝 Connect with me
 
+<a href="https://www.linkedin.com/in/bipul-regmi-78b26524b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="https://x.com/BipulRegmi3">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" />
+</a>
+<a href="https://bipulregmi.com.np">
+  <img src="https://img.shields.io/badge/Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" />
+</a>
 <a href="mailto:bipulregmi2018@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
 <a href="https://github.com/idiocter">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
