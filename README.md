@@ -32,7 +32,7 @@
 - 🌱 &nbsp;Currently exploring **LLMs**, systems design, and whatever's shiny this week
 - 🧩 &nbsp;I build cool things — and break them faster
 - 💬 &nbsp;Ask me about **Python**, **TypeScript**, or over-engineered side projects
-- 📫 &nbsp;Reach me at **bipulregmi2018@gmail.com**
+- 📫 &nbsp;Reach me at **regmibipul2015@gmail.com**
 
 ---
 
